@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://joshsimmons.com/</loc>
+      <loc>https://robinriley.fyi/</loc>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
 
    <url>
-      <loc>https://joshsimmons.com/talks.html</loc>
+      <loc>https://robinriley.fyi/talks.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
    </url>
 
    <url>
-      <loc>https://joshsimmons.com/external/resume.pdf</loc>
+      <loc>https://robinriley.fyi/external/resume.pdf</loc>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
    </url>
 
    <url>
-      <loc>https://joshsimmons.com/media.html</loc>
+      <loc>https://robinriley.fyi/media.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
 
    <url>
-      <loc>https://joshsimmons.com/contact.html</loc>
+      <loc>https://robinriley.fyi/contact.html</loc>
       <changefreq>yearly</changefreq>
       <priority>0.5</priority>
    </url>
